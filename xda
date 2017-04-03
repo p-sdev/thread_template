@@ -1,0 +1,167 @@
+[CENTER]
+[IMG]http://i.imgur.com/M9deDeJ.png[/IMG][/CENTER]
+
+[CENTER][FONT="Trebuchet MS"][SIZE="6"][B]The Pure [COLOR=#1976D2]Nexus[/COLOR] Project[/B][/SIZE][/FONT][/CENTER]
+
+[LEFT]
+
+[FONT="Trebuchet MS"][SIZE="5"][COLOR=#1976D2][B]Disclaimer:[/B][/COLOR][/SIZE][/FONT]
+We are not responsible for anything that may happen to your phone as a result of installing custom roms and/or kernels. you do so at your own risk and take the responsibility upon yourself.
+
+"This is a user friendly thread. All feature requests will be heard and considered. I am not against anything that doesn't stray too far away from the original idea of the ROM! Helping one another is also encouraged! Please be respectful and you will always be treated the same way, we are all here for a good experience."
+
+[FONT="Trebuchet MS"][SIZE="5"][COLOR=#1976D2][B]About:[/B][/COLOR][/SIZE][/FONT]
+The Pure Nexus Project aims to bring stability and features to your Nexus device, while keeping Google's vision in line and not straying too far away from that. If you are looking for a stable ROM with true tested features and minimal bugs, then this is the place to be.
+
+[FONT="Trebuchet MS"][SIZE="5"][COLOR=#1976D2][B]Features:[/B][/COLOR][/SIZE][/FONT]
+[HIDE][CODE]-General
+*All stock Nexus features working!!(WiFi calling, Project Fi, VoLte)
+*Based on AOSP Android 7.1.1_r26
+*Busybox, and Init.d support
+*Googles Pixel sounds and OEM wallpapers from factory images
+*Googles Pixel theme and Pixel navbar animation
+*Bug fix's and stability improvements
+*UI Improvements (fixed a bunch google forgot to materialize)
+*Rootless Substratum OMS Theme Engine support
+*ADB enhancements (ADB over wifi, Hide ADB icon, colored logcat "abd logcat -C")
+*Enabled Developer settings by default
+*Enabled Night mode for all devices
+*Custom night light brightness options
+*Disabled forced encryption
+*Disabled tether provision checks
+*Made preselectable item clickable in app picker dialog
+*Added download speed in notification
+*Added Advanced Reboot menu
+*Added Advanced screenshot functionality (longpress tile/power menu for selectable screenshot)
+*Added back volume adjust sounds and toggle
+*Added advanced rotation control and lockscreen rotation toggle
+*Added ability to lock app in landscape via rotation tile
+*Added advanced charging sound controls
+*Added advanced seekbar style animation controls
+*Added Quick setting header Longpress actions
+*Added ability to see app version when sideloading app
+*Added app package name to app info screen
+*Added ability to launch app when touching app icon in app info screen
+*Added phone info shortcut to about phone/status on top
+*Added dynamic vendor image notification
+*Added additional battery saver trigger steps
+*Added ability to unlink notification volume from ringer volume
+*Added Increasing ringtone option
+*Removed googles SystemUpdate option
+*Removed googles legal information
+
+-PureNexus Settings
+
+Lock Screen
+*Lockscreen item option(time, date, alarm text toggles & Clock font style)
+*Double tap anywhere to sleep
+*Long press power for torch
+*Option to disable lockscreen media art
+*Option to scramble the pin entry layout
+*Option to disable the pin ripple background when entering lockscren pin
+*Option to disable fingerprint success vibration
+
+Notification Drawer
+*quick settings pulldown (left,right,always)
+*smart pulldown (no ongoing, no dismissable, no notifications)
+*advanced quick settings easy toggle
+*Brightness slider on/off toggle
+*Haptic feedback on quick setting on/off toggle
+*ability to disable quick settings on secure lockscreen
+*ability to disable the quick settings title text
+*ability to change number of quick settings columns
+*ability to change the amount of rows in quick settings
+*ability to set contexual or custom header images
+
+Recent apps
+*immersive recents
+*kill all fab
+*kill all fab location
+
+Statusbar
+*Battery customization(percentage/icon style)
+*sync battery icon with quick settings tile
+*Battery bar options(location, color, style, thickness, animation)
+*Carrier Label customization(placement, text)
+*Clock customization(show clock, show seconds, alignment, ampm, date, date style, date position, date format)
+*Network traffic meter options(enable, display units, update interval, hide arrows, auto hide, inactivity threshold)
+*Statusbar icon blacklist
+*Double tap on statusbar to sleep
+*Status bar brightness control
+*Status bar notification count
+*Status bar bluetooth battery meter toggle
+
+Navigation Bar
+*Navbar toggle and Height/width options
+*Navigation bar tuner
+*Pixel navbar animation toggle
+*Ability to enable one handed mode
+*Ability to enabe double tap to sleep
+*longpress back to kill
+*configurable longpress back to kill timeout
+
+Hardware keys
+*Custom key binding
+*Backlight control
+
+PowerMenu
+*Option to disable on secure lock
+*Add/remove (reboot, screenshot, screen-record, torch, airplane mode, user switcher,settings shortcut, search, voice search, lock now, sound panel)
+
+Volume Rocker
+*Volume keys control media volume
+*Volume key wake
+*Volume key music control
+*Volume key orientation swap
+*Volume key keyboard cursor control
+*Volume up and power action (screen record/selectable screenshot)
+*Volume down to enter do not disturb
+*Volume up to exit do not disturb
+*Do not disturb volume panel switch
+*Volume steps customization
+
+Display
+*expanded desktop options
+*option to enable/disable wake on plug
+*3 finger swipe for screenshot toggle
+*Battery and Notification LED controls
+
+Media & Notifications
+*Ability to turn off vibration when double tapping power button for camera
+*Power notification controls
+*Peeking notification option(on/off, timeout, snooze length)
+*low battery notification toggle
+
+Miscellaneous
+*ability to enable app icon on toast
+*force enable or disable scrolling cache
+*incall vibration options[/CODE][/HIDE]
+
+[FONT="Trebuchet MS"][SIZE="5"][COLOR=#1976D2][B]Downloads & Changelog:[/B][/COLOR][/SIZE][/FONT]
+[HIDE]
+[INDENT][SIZE="3"]
+Changelog: [B][URL="https://github.com/PureNexus-CAF/changelog/blob/master/CHANGELOG.mkdn"]View latest changelog[/URL][/B]
+
+Rom builds: [B][URL="afh-link"]Android File Host[/URL][/B]
+[/SIZE][/INDENT]
+[/HIDE]
+
+[FONT="Trebuchet MS"][SIZE="5"][COLOR=#1976D2][B]Credits & Thanks:[/B][/COLOR][/SIZE][/FONT]
+[HIDE]
+[SIZE="3"]
+[INDENT]
+The Cheeky Bastards - Bajasur, Dwitherell, DaveyAnnihalation, Surge1223!!!
+The PureNexus Moderators - MicMars, Kris Nelson, Nathan Chance
+The PureNexus Beta and Themer groups
+The CyanogenMod Community
+Dirty Unicorns
+SlimRoms
+OmniRom
+Euphoria-OS
+@BeansTown106 - For this awesome rom
+@jhenrique09- For Source code (https://github.com/PureNexus-CAF)
+And all other open source Devs/Teams i may have missed!
+[/INDENT]
+[/SIZE]
+[/HIDE]
+[/LEFT]
