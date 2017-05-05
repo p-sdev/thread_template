@@ -15,8 +15,7 @@ The Pure Nexus Project aims to bring stability and features to your Nexus device
 
 [FONT="Trebuchet MS"][SIZE="5"][COLOR=#1976D2][B]Features:[/B][/COLOR][/SIZE][/FONT]
 [HIDE][CODE]-General
-*All stock Nexus features working!!(WiFi calling, Project Fi, VoLte)
-*Based on AOSP Android 7.1.1_r26
+*Based on AOSP Android 7.1.2_r11
 *Busybox, and Init.d support
 *Googles Pixel sounds and OEM wallpapers from factory images
 *Googles Pixel theme and Pixel navbar animation
@@ -135,7 +134,9 @@ Media & Notifications
 Miscellaneous
 *ability to enable app icon on toast
 *force enable or disable scrolling cache
-*incall vibration options[/CODE][/HIDE]
+*incall vibration options
+
+and more![/CODE][/HIDE]
 
 [FONT="Trebuchet MS"][SIZE="5"][COLOR=#1976D2][B]Downloads & Changelog:[/B][/COLOR][/SIZE][/FONT]
 [HIDE]
